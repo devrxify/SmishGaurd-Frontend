@@ -4,7 +4,7 @@
 This dashboard allows users to interact with the backend API, scan SMS messages in real-time, and visualize threat levels for Hate Speech, Violence, and Phishing attempts.
 
 ## Live Demo
-**Try it here:** https://smishgaurd-demo.streamlit.app
+**Try it here:** https://smishguard-demo.streamlit.app
 
 ## Features
 * **Real-Time Analysis:** Connects instantly to the Azure Serverless Backend.
@@ -21,7 +21,7 @@ If you want to run this dashboard on your own machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/devrxify/SmishGaurd-Frontend.git](https://github.com/devrxify/SmishGaurd-Frontend.git)
+   git clone [https://github.com/devrxify/SmishGuard-Frontend.git](https://github.com/devrxify/SmishGuard-Frontend.git)
 
 2. **Install Dependencies:**
    ```bash
