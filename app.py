@@ -26,7 +26,6 @@ if st.button("🔍 Scan Message", type="primary"):
                             st.warning(f"⚠️ {item}")
                     else:
                         st.success("✅ MESSAGE IS SAFE")
-                        st.balloons()
                         st.write("No harmful content detected by Azure AI.")
                 
                 else:
