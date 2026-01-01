@@ -24,13 +24,13 @@ If you want to run this dashboard on your own machine:
    git clone [https://github.com/devrxify/SmishGaurd-Frontend.git](https://github.com/devrxify/SmishGaurd-Frontend.git)
 
 2. **Install Dependencies:**
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. **Run the app:**
-```bash
-streamlit run app.py
-```
+   ```bash
+   streamlit run app.py
+   ```
 
 *Part of the SmishGuard Project*
